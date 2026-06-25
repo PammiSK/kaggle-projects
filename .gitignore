@@ -1,4 +1,6 @@
-*.csv
+#Files > 100MB
+store-sales-time-series-forecasting/train.csv
+llm-classification-finetuning/train.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
