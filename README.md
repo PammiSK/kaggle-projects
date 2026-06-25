@@ -74,5 +74,6 @@ A collection of Kaggle projects completed to demonstrate skills in machine learn
 └── ultimate-customer-churn-prediction-challenge/
     ├── test.csv
     └── train.csv
+```
 
-*__Made with AI__*
+***Made with AI***
