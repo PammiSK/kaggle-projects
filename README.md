@@ -75,5 +75,3 @@ A collection of Kaggle projects completed to demonstrate skills in machine learn
     ├── test.csv
     └── train.csv
 ```
-
-***Made with AI***
